@@ -3,7 +3,7 @@
 My name is Philipp and I am a Machine Learning Engineer
 
 :office: Founder of [Limebit GmbH](https://limebit.de/) (Data Science Agency) in Berlin  
-⚕️Head of AI at [MedModels](https://medmodels.de/), working with Medical Data  
+⚕️Head of AI at [MedModels]([https://medmodels.de/](https://github.com/limebit/medmodels)), working with Medical Data  
 🎓 Teaching Machine Learning at FOM University of Applied Sciences in Berlin  
 
 ## What I am passionate about
