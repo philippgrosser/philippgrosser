@@ -3,8 +3,8 @@
 My name is Philipp and I am a Machine Learning Engineer
 
 ### Companies
-:office: Founder of [Limebit GmbH](https://limebit.de/), delivering Data Science Services for Health & Life Sciences
-⚕️Founder of [MedModels GmbH](https://medmodels.de/), anonymizing and synthesizing Medical data  
+:office: Founder of [Limebit GmbH](https://limebit.de/), delivering Data Science Services for Health & Life Sciences  
+⚕️Founder of [MedModels GmbH](https://medmodels.de/), anonymizing and synthesizing Medical data   
 
 ### Projects
 💬 Initiator of [Open Discourse](https://opendiscourse.de/), the largest open-data project for German Parliamentary Debates  
